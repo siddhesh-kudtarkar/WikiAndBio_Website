@@ -1,0 +1,9 @@
+.fontConfig {
+    font-family: 'Raleway', serif;
+}
+
+.centerImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
